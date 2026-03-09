@@ -41,9 +41,12 @@ export default function Home() {
           </div>
           <span style={{ fontWeight: 700, fontSize: '1.1rem', color: '#F8FAFC', letterSpacing: '-0.02em' }}>AI Skills Generator</span>
         </div>
-        <a href="https://thevoiceofcash.com/consultation" style={{ background: 'linear-gradient(135deg, #2563EB, #1D4ED8)', color: '#F8FAFC', padding: '0.5rem 1.25rem', borderRadius: 8, textDecoration: 'none', fontWeight: 600, fontSize: '0.9rem' }}>
-          Get Early Access
-        </a>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem' }}>
+          <a href="/blog" style={{ color: 'rgba(248,250,252,0.75)', textDecoration: 'none', fontWeight: 600, fontSize: '0.9rem' }}>Blog</a>
+          <a href="https://thevoiceofcash.com/consultation" style={{ background: 'linear-gradient(135deg, #2563EB, #1D4ED8)', color: '#F8FAFC', padding: '0.5rem 1.25rem', borderRadius: 8, textDecoration: 'none', fontWeight: 600, fontSize: '0.9rem' }}>
+            Get Early Access
+          </a>
+        </div>
       </nav>
 
       {/* Hero */}
