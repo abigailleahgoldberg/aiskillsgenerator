@@ -41,7 +41,7 @@ export default function Home() {
           </div>
           <span style={{ fontWeight: 700, fontSize: '1.1rem', color: '#F8FAFC', letterSpacing: '-0.02em' }}>AI Skills Generator</span>
         </div>
-        <a href="#notify" style={{ background: 'linear-gradient(135deg, #2563EB, #1D4ED8)', color: '#F8FAFC', padding: '0.5rem 1.25rem', borderRadius: 8, textDecoration: 'none', fontWeight: 600, fontSize: '0.9rem' }}>
+        <a href="https://thevoiceofcash.com/consultation" style={{ background: 'linear-gradient(135deg, #2563EB, #1D4ED8)', color: '#F8FAFC', padding: '0.5rem 1.25rem', borderRadius: 8, textDecoration: 'none', fontWeight: 600, fontSize: '0.9rem' }}>
           Get Early Access
         </a>
       </nav>
@@ -59,7 +59,7 @@ export default function Home() {
         <p style={{ fontSize: '1.2rem', color: 'rgba(248,250,252,0.7)', lineHeight: 1.7, marginBottom: '2.5rem', maxWidth: 560, margin: '0 auto 2.5rem' }}>
           Answer 3 questions. Get a custom AI learning plan built for your role, industry, and goals.
         </p>
-        <a href="#notify" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #2563EB, #1D4ED8)', color: '#F8FAFC', padding: '1rem 2.5rem', borderRadius: 12, textDecoration: 'none', fontWeight: 700, fontSize: '1.1rem', boxShadow: '0 8px 32px rgba(37,99,235,0.4)' }}>
+        <a href="https://thevoiceofcash.com/consultation" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #2563EB, #1D4ED8)', color: '#F8FAFC', padding: '1rem 2.5rem', borderRadius: 12, textDecoration: 'none', fontWeight: 700, fontSize: '1.1rem', boxShadow: '0 8px 32px rgba(37,99,235,0.4)' }}>
           Join the Waitlist
         </a>
       </section>
