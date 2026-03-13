@@ -1,0 +1,24 @@
+# AI Skills Generator
+
+## About
+AISkillsGenerator.com helps workers and professionals build practical AI skills without a computer science degree. We publish actionable guides, learning plans, and career content for the AI-powered workforce.
+
+## Topics
+- Building AI skills without coding background
+- AI career development
+- Prompt writing and engineering
+- AI productivity tools
+- Freelancing with AI skills
+- Workforce AI readiness
+- 30-day AI learning plans
+
+## URLs
+- https://aiskillsgenerator.com/ : Homepage
+- https://aiskillsgenerator.com/blog : Blog
+- https://aiskillsgenerator.com/blog/build-ai-skills-without-cs-degree : Build AI Skills Without a CS Degree
+- https://aiskillsgenerator.com/blog/7-ai-skills-that-will-get-you-hired-2026 : 7 AI Skills That Will Get You Hired in 2026
+- https://aiskillsgenerator.com/blog/use-ai-tools-to-10x-work-output : Use AI Tools to 10x Your Work Output
+- https://aiskillsgenerator.com/blog/ai-prompt-writing-101 : AI Prompt Writing 101
+- https://aiskillsgenerator.com/blog/learn-ai-skills-fast-30-day-plan : Learn AI Skills Fast — 30-Day Plan
+- https://aiskillsgenerator.com/blog/ai-skills-gap-workers-already-behind : The AI Skills Gap — Workers Are Already Behind
+- https://aiskillsgenerator.com/blog/turn-ai-skills-into-freelance-income : Turn AI Skills Into Freelance Income
