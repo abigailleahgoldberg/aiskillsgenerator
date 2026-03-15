@@ -124,6 +124,23 @@ export default async function BlogPostPage({ params }: Props) {
           Book a Free Consultation
         </a>
       </section>
+
+      {/* AI Network Section */}
+      <div style={{ padding: '32px 2rem', borderTop: '1px solid rgba(67,56,202,0.1)' }}>
+        <div style={{ maxWidth: 780, margin: '0 auto' }}>
+          <div style={{ fontSize: '0.62rem', letterSpacing: '0.16em', textTransform: 'uppercase', color: 'rgba(67,56,202,0.6)', marginBottom: 14 }}>AI Network</div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 16 }}>
+            <a href="https://claudeaiskills.com" style={{ color: '#00C896', textDecoration: 'none', fontSize: '0.85rem' }}>Claude-specific guides at <strong>ClaudeAISkills.com</strong></a>
+            <a href="https://aiskillsagents.com" style={{ color: '#00C896', textDecoration: 'none', fontSize: '0.85rem' }}>Business automation at <strong>AISkillsAgents.com</strong></a>
+            <a href="https://anthropicaiskills.com" style={{ color: '#00C896', textDecoration: 'none', fontSize: '0.85rem' }}>Model deep dives at <strong>AnthropicAISkills.com</strong></a>
+            <a href="https://searchperformancemarketing.com" style={{ color: '#00C896', textDecoration: 'none', fontSize: '0.85rem' }}>AI marketing at <strong>SearchPerformanceMarketing.com</strong></a>
+          </div>
+        </div>
+      </div>
+
+      <footer style={{ borderTop: '1px solid rgba(248,250,252,0.06)', padding: '2rem', textAlign: 'center', color: 'rgba(248,250,252,0.35)', fontSize: '0.875rem' }}>
+        <p style={{ margin: 0 }}>© 2026 AI Skills Generator. Independent resource. Not affiliated with Anthropic.</p>
+      </footer>
     </main>
   );
 }
