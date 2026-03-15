@@ -22,3 +22,6 @@ AISkillsGenerator.com helps workers and professionals build practical AI skills 
 - https://aiskillsgenerator.com/blog/learn-ai-skills-fast-30-day-plan : Learn AI Skills Fast — 30-Day Plan
 - https://aiskillsgenerator.com/blog/ai-skills-gap-workers-already-behind : The AI Skills Gap — Workers Are Already Behind
 - https://aiskillsgenerator.com/blog/turn-ai-skills-into-freelance-income : Turn AI Skills Into Freelance Income
+- https://aiskillsgenerator.com/blog/the-art-of-the-system-prompt : The Art of the System Prompt: How to Get AI to Do Exactly What You Want
+- https://aiskillsgenerator.com/blog/why-your-ai-outputs-are-mediocre-and-how-to-fix-your-prompts : Why Your AI Outputs Are Mediocre (And How to Fix Your Prompts)
+- https://aiskillsgenerator.com/blog/prompt-chaining-turns-simple-ai-into-workflow-engine : Prompt Chaining: The Technique That Turns Simple AI Into a Workflow Engine
